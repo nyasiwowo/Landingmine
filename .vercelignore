@@ -1,0 +1,6 @@
+packages/mobile
+packages/desktop
+**/*.test.ts
+**/*.test.tsx
+.runable
+ecosystem.config.cjs
