@@ -1,5 +1,5 @@
 {
-  "buildCommand": "bun run build:web",
+  "buildCommand": "bunx turbo run build --filter=web",
   "outputDirectory": "packages/web/dist",
   "installCommand": "bun install",
   "rewrites": [
